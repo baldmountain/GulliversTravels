@@ -32,11 +32,11 @@ email ccx074@pglaf.org
 
 
 
-<h1>Gulliver’s Travels</h1>
+<h1 class='title'>Gulliver’s Travels</h1>
 
-<h1>into Several</h1>
+<h1 class='title'>into Several</h1>
 
-<h1>Remote Nations of the World</h1>
+<h1 class='title'>Remote Nations of the World</h1>
 
 
 <h2>by Jonathan Swift, D.D.,</h2>

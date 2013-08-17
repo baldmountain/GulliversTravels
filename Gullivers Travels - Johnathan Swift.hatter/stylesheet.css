@@ -1,22 +1,30 @@
+@charset "utf-8";
+
 body {
     margin: 0 1em;
     padding: 0;
-    font-family: Garamond, "Hoefler Text", "Times New Roman", Times, serif;
-    font-size: 12pt;
+    font-family: "Century Schoolbook", "Hoefler Text", "Goudy Old Style", times, serif;
+    font-size: 14pt;
+    line-height: 1.35em;
 }
 
 h1 {
-    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+    font-family: Optima, "Gill Sans MT", "Franklin Gothic Book", helvetica, sans-serif;
     font-size: 140%;
     color: #444;
-    text-align: center;
+    border-top: 1px solid #999;
+    padding-top: 5px;
+}
+
+h1.title {
+    border-top: none;
+    padding-top: 0;
 }
 
 h2 {
-    font-family: "Franklin Gothic Medium", "Arial Narrow Bold", Arial, sans-serif;
+    font-family: Optima, "Gill Sans MT", "Franklin Gothic Book", helvetica, sans-serif;
     font-size: 110%;
     color: #333;
-    text-align: center;
 }
 
 td {
@@ -24,9 +32,7 @@ td {
 }
 
 blockquote {
-    font-style: italic;
-}
-
-p.right {
-    text-align: right;
+    padding: 0 2em;
+    font-size: 0.9em;
+    line-height: 1.35em;
 }
